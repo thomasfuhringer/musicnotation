@@ -1,2 +1,2 @@
 # Hockey Stick Music Notation
-My attempt at an alternative to traditional music notation
+My attempt at coming up with an alternative to traditional music notation
